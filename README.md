@@ -115,4 +115,5 @@ jupyter notebook notebooks/wine_quality.ipynb
 ## 👤 Autores
 
 Arthur Lima, Bruna Rodrigues, Keisy Magalhães, Luiz Cesar dos Santos, Renato Naddeo
+
 Pós-Graduação em Data Analytics - FIAP PosTech
