@@ -86,21 +86,6 @@ Após testar dois algoritmos, o Random Forest se mostrou superior, errando muito
 **4. O impacto para o negócio**
 Com esse modelo, produtores podem prever a qualidade do vinho ainda durante o processo de produção, permitindo ajustes antes que o produto chegue ao consumidor final — reduzindo custos e aumentando a padronização da qualidade.
 
-## 🚀 Como Rodar
-
-1. Clone o repositório
-```bash
-git clone https://github.com/seu-usuario/wine-quality-classification.git
-```
-
-2. Instale as dependências
-```bash
-pip install -r requirements.txt
-```
-
-3. Abra o notebook
-```bash
-jupyter notebook notebooks/wine_quality.ipynb
 ```
 
 ## 🛠️ Tecnologias Utilizadas
