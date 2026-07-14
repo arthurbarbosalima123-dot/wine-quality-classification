@@ -86,6 +86,10 @@ Após testar dois algoritmos, o Random Forest se mostrou superior, errando muito
 **4. O impacto para o negócio**
 Com esse modelo, produtores podem prever a qualidade do vinho ainda durante o processo de produção, permitindo ajustes antes que o produto chegue ao consumidor final — reduzindo custos e aumentando a padronização da qualidade.
 
+## 🎥 Vídeo Executivo
+
+[Assistir ao vídeo de apresentação](https://drive.google.com/file/d/1mvH4AuvPHjKeC72D7F7IUHKM446jC9SA/view?usp=drive_link)
+
 ```
 
 ## 🛠️ Tecnologias Utilizadas
